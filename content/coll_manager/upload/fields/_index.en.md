@@ -136,7 +136,7 @@ For more information about data fields, also see our [Symbiota Data Fields](http
 | [_reproductiveCondition_](https://dwc.tdwg.org/terms/#dwc:reproductiveCondition) | Text (255) | e.g. sterile, flw, frt, asci, etc. Use of controlled vocabulary is preferred. |
 | [_samplingEffort_](https://dwc.tdwg.org/terms/#dwc:samplingEffort) | Text (200) | |
 | [_samplingProtocol_](https://dwc.tdwg.org/terms/#dwc:samplingProtocol) | Text (100) | |
-| [_scientificname_](https://dwc.tdwg.org/terms/#dwc:scientificName) | Text (255) | Scientific name w/ authorship. The authorship will be parsed from the name. |
+| [_scientificName_](https://dwc.tdwg.org/terms/#dwc:scientificName) | Text (255) | Scientific name w/ authorship. The authorship will be parsed from the name. |
 | [_scientificNameAuthorship_](https://dwc.tdwg.org/terms/#dwc:scientificNameAuthorship) | Text (255) | Author of scientific name |
 | [**_sciname_**](https://dwc.tdwg.org/terms/#dwc:genericName) | Text (255) | Scientific name without author |
 | [_sex_](https://dwc.tdwg.org/terms/#dwc:sex) | Text (45) | |
