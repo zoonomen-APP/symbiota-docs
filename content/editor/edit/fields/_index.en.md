@@ -41,7 +41,7 @@ The Symbiota data schema is strongly aligned to the <a href="https://www.tdwg.or
 
 {{< dwc-term id="recordNumber" verbatim="Number" descr="The collection number assigned to the specimen by the collector." ex="1294, 12490b, 94-132" dwc="recordNumber" >}}
 
-{{< dwc-term id="eventDate" verbatim="Date" descr="The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as \"00\". For example, a collection with a date of \"March 1956\" can be entered as \"1956-03-00\"." ex="1983-09-15, 1983-07-00, 1934-00-00" dwc="eventDate" >}}
+{{< dwc-term id="eventDate" verbatim="Date" descr="Generally the date the specimen was collected. However, with some older specimens the "event" appears to be herbarium transfer/acquisition (see for one of several examples all entries for William Oakes, listed to 1848 the year of his death and well after his collecting began). While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as \"00\". For example, a collection with a date of \"March 1956\" can be entered as \"1956-03-00\"." ex="1983-09-15, 1983-07-00, 1934-00-00" dwc="eventDate" >}}
 
 {{< dwc-term id="verbatimEventDate" verbatim="Verbatim Date" descr="Can be used to record date exactly as entered on label. Particularly useful for non-standard date formats or date ranges." ex="Spring 1901, March-April 1952, late Sept. 1909" dwc="verbatimEventDate" >}}
 
